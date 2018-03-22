@@ -1,0 +1,67 @@
+/* Custom CSS styling for Site */
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(152, 173, 190);
+}
+
+h1{
+    text-align: center;
+}
+form#feedback{
+    width:50%;
+    margin: auto;
+    padding: 20px;
+}
+nav{
+    color:white;
+}
+
+header nav a{
+    color:white;
+}
+
+div#TvCarousel{
+    width:50%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+div#container p{
+    padding: 10px;
+    width:50%;
+    
+}
+h1{
+    text-align: center;
+    padding:10px;
+    font-weight: bolder;
+}
+button.btn.btn-primary{
+    margin: 0 auto;
+    display:block;
+}
+button.btn.btn-warning{
+    margin: 0 auto;
+    display: block;
+}
+div.card.card-body{
+    width:50%;
+    margin: 0 auto;
+}
+div#container aside{
+    float:right;
+    width: 50%;
+    font-size:2em;
+    font-weight: bold;
+}
+
+div#container aside h2, button.btn.btn-danger{
+    text-transform: uppercase;
+    text-align: right;
+    position: relative;
+    top: -150px;
+    left: -80px;
+}
+
